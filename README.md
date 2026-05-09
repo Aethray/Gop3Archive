@@ -13,5 +13,5 @@
 <br>
 <p >
   <b>--- 💡 Keep Moving Forward ---</b><br>
-  <span style="color: gray; font-size: 13px;">   遇到问题随时提交 Issue 反馈。</span>
+  <span style="color: gray; font-size: 13px;">    遇到问题随时提交 Issue 反馈。</span>
 </p>
